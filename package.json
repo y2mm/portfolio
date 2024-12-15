@@ -9,5 +9,8 @@
   "private": true,
   "devDependencies": {
     "gh-pages": "^6.2.0"
+  },
+  "dependencies": {
+    "react-router-dom": "^7.0.2"
   }
 }
